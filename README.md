@@ -1,1 +1,1 @@
-# bitcoin_twitter_analysis
+# bitcoin-twitter-analysis
